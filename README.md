@@ -1,7 +1,4 @@
 # 235062_PhamThachThao
-He thong quan ly sach su dung React, Node.js, Express, MongoDB Atlas va Docker
-cat > README.md <<'EOF'
-# 235062_PhamThachThao
 
 ## Đề tài
 Xây dựng hệ thống quản lý sách trên nền tảng đám mây.
